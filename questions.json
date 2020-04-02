@@ -1,0 +1,26 @@
+ [
+    {
+      "question": "How many authors wrote the Bible?",
+      "choice1": "27 authors",
+      "choice2": "66 authors",
+      "choice3": "40 authors",
+      "choice4": "37 authors",
+      "answer": 3
+    },
+    {
+     " question": "And thou shall call his name Jesus... Who is this quotation talking to?",
+      "choice1": "Emmanuel",
+      "choice2": "Joseph",
+      "choice3": "Mary",
+      "choice4": "Jesus",
+      "answer": 2
+    },
+    {
+      "question": "Who wrote the book of Acts of the Apostle",
+      "choice1": "Moses",
+      "choice2": "Paul the Apostle",
+      "choice3": "John the Beloved",
+      "choice4": "Luke",
+      "answer": 4
+    }
+ ]
